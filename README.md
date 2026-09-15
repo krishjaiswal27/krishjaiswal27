@@ -1,18 +1,18 @@
-<h1 align="center">Hi👋, I'm Krish Jaiswal</h1>
+<h1 align="center">Hi, I'm Krish Jaiswal</h1>
 <h3 align="center">Data Analyst • Power BI Developer • Agentic Automation Builder • ML Engineer</h3>
 
-# 💫 About Me
+# About Me
 
-- 📊 Currently building **data analyses and dashboards** with **Python, SQL, and Power BI**
-- ⚙️ Built an **agentic automation workflow with n8n** to streamline a pre-risk assessment process during my internship
-- 🤖 Learning **Machine Learning, Computer Vision, and Scalable Data Pipelines**
-- 🤝 Open to collaborating on **Data Analytics, BI, Agentic Automation, and ML projects**
-- 🔍 Exploring **NLP, Fraud Detection, and Computer Vision** through hands-on projects
-- 💬 Ask me about **SQL, Power BI dashboards, EDA, n8n workflows, and risk/return analysis**
-- 🎤 Fun fact: I've gone from convening **Startup Weekend Jaipur** to building dashboards that quietly judge bank stocks for their risk-adjusted returns
-- 🎯 Goal: Turn messy, real-world data into dashboards, workflows, and models that actually drive decisions
+- Currently building **data analyses and dashboards** with **Python, SQL, and Power BI**
+- Built an **agentic automation workflow with n8n** to streamline a pre-risk assessment process during my internship
+- Learning **Machine Learning, Computer Vision, and Scalable Data Pipelines**
+- Open to collaborating on **Data Analytics, BI, Agentic Automation, and ML projects**
+- Exploring **NLP, Fraud Detection, and Computer Vision** through hands-on projects
+- Ask me about **SQL, Power BI dashboards, EDA, n8n workflows, and risk/return analysis**
+- Fun fact: I've gone from convening **Startup Weekend Jaipur** to building dashboards that quietly judge bank stocks for their risk-adjusted returns
+- Goal: Turn messy, real-world data into dashboards, workflows, and models that actually drive decisions
 
-# 🌟 Featured Interests
+# Featured Interests
 
 ```txt
 Data Analysis • Business Intelligence • Machine Learning • SQL
@@ -20,7 +20,7 @@ Power BI • Python • NLP • Computer Vision
 Agentic Automation • n8n • Workflow Automation
 ```
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
